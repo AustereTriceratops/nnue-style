@@ -2,3 +2,9 @@ __pycache__/
 env/
 build/
 logs/
+
+.ipynb_checkpoints/
+*.dll
+*.binpack
+*.bin
+*.ipynb
